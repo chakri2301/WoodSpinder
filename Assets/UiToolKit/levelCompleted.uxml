@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UiToolKit/design.uss?fileID=7433441132597879392&amp;guid=1027b60352d8f486ebe98bb7bb78ca8c&amp;type=3#design"/>
+    <ui:VisualElement name="Base" style="flex-grow: 1; justify-content: space-evenly; background-color: rgba(161, 73, 0, 0.314); align-self: stretch; align-items: center;">
+        <ui:Label text="Level Completed" name="Title" class="title" style="font-size: 75px; align-self: center; justify-content: flex-start; color: rgb(242, 255, 0); -unity-font-definition: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&amp;guid=d36c743deab03f79eb1af5a1af0efd2f&amp;type=3#NotInter-Regular&quot;); height: 189px; width: 547px; -unity-text-align: middle-center;"/>
+        <ui:Label text="Stars Collected: 3" name="StarInfo" class="info" style="-unity-font-definition: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&amp;guid=d36c743deab03f79eb1af5a1af0efd2f&amp;type=3#NotInter-Regular&quot;);"/>
+        <ui:Button text="PlayAnotherLevel" name="PlayAnother" class="menuButton" style="font-size: 44px; width: 48%;"/>
+        <ui:Button text="PlayAgain" name="PlayAgain" class="menuButton" style="font-size: 44px; width: 48%;"/>
+    </ui:VisualElement>
+</ui:UXML>

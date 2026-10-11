@@ -1,0 +1,18 @@
+:root {
+}
+
+.title {
+    font-size: 75px;
+    -unity-text-align: middle-center;
+}
+
+.info {
+    font-size: 84px;
+    -unity-font-definition: url("project://database/Assets/OtherAsset/HennyPenny-Regular.ttf?fileID=12800000&guid=79f075e22325d99fab54150deca4765b&type=3#HennyPenny-Regular");
+    color: rgb(213, 255, 0);
+}
+
+.menuButton {
+    width: 38%;
+    background-color: rgb(39, 255, 0);
+}

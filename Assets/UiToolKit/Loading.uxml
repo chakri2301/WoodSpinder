@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UiToolKit/design.uss?fileID=7433441132597879392&amp;guid=1027b60352d8f486ebe98bb7bb78ca8c&amp;type=3#design"/>
+    <ui:VisualElement style="flex-grow: 1; background-color: rgb(140, 51, 0); justify-content: center;">
+        <ui:Label text="Loading..." style="-unity-text-align: middle-center; color: rgb(255, 255, 255); font-size: 41px;"/>
+    </ui:VisualElement>
+</ui:UXML>
